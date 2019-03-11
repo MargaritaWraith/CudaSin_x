@@ -31,7 +31,7 @@ int main()
 
 	for (int i = 0; i < arraySize; i++)
 	{
-		printf("sin[%d] = %f\n", i, sinx[i]);
+		printf("sin[%d*pi/1024] = %f\n", i, sinx[i]);
 	}
 
 
